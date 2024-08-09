@@ -27,7 +27,7 @@ functioning of your server.
 These are the new class-names that have been added to the DayZ types.xml server file in experimental update 1.26, in the Chernarus types file.
 
 I have inlcuded two files, one which has just the new entries copied from the 1.26 files, and the other in spawnable format where I have edited nominals, mins, useages, etc so the file can
-either be added to your custom 1.25 types when 1.26 goes live, so these items will spawn, or you can use cfgeconomycore to refore to the file,
+either be added to your custom 1.25 types when 1.26 goes live, so these items will spawn, or you can use cfgeconomycore to refer to the file,
  see https://community.bistudio.com/wiki/DayZ:Central_Economy_mission_files_modding for advice, remember on console any extra mission files MUST be in the "custom" directory.
  
 THESE CLASS NAMES WILL ONLY WORK ON EXPERIMENTAL 1.26 SERVERS OR WHEN 1.26 GOES LIVE TO PUBLIC SERVERS!
